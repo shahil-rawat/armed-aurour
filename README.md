@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shahil Rawat, currently pursueing Computer science engineering at BITS Goa.
-- 👀 I’m interested in open souce contribution and learnings. I am also a web development enthusiast.
-- 🌱 I’m currently learning about open source contributions and web development.
+- 👀 I’m interested in developing android apps.
 - 📫 How to reach me: You can drop an email on rawatshahil19@gmail.com
 
 <!---
